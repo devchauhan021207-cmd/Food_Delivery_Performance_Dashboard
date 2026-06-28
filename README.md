@@ -6,8 +6,11 @@ Interactive Food Delivery Performance Dashboard built using Power BI to analyze 
 This project analyzes food delivery operations using Power BI. The dashboard helps identify delivery performance trends based on traffic, weather, delivery mode, and peak ordering times.
 
 🎯 Objectives
+
 Analyze delivery performance
+
 Identify peak order periods
+
 Compare delivery modes
 Measure weather and traffic impact
 Build an interactive dashboard
